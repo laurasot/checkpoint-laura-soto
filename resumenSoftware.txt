@@ -1,0 +1,3 @@
+Oracle Database
+Intellij Idea
+Postman

@@ -1,0 +1,3 @@
+Memoria RAM (Random Access Memory)
+Memoria Cache
+Memoria ROM (Read-Only Memory)

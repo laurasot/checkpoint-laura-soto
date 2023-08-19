@@ -1,0 +1,35 @@
+profe, no aparece el comando con el que hice el repo remoto u.u, pero se lo dejo anotado por aqui:
+git clone https://github.com/laurasot/checkpoint-laura-soto.git
+cd ..
+  126  cd checkpoint-laura-soto/
+  127  git commit "commit 01 de LauraSoto"
+  128  git status
+  129  git commit -m "commit 01 de LauraSoto"
+  130  git push origin main
+  131  git branch feature
+  132  git branch
+  133  git checkout feature
+  134  mkdir Hardware
+  135  mkdir Software
+  136  mkdir SeguridadInformatica
+  137  cd Hardware/
+  138  touch resumen.txt
+  139  cd ..
+  140  cd Software/
+  141  touch resumen.txt
+  142  cd ..
+  143  cd SeguridadInformatica/
+  144  touch resumen.txt
+  145  git status
+  146  dir
+  147  cd ..
+  148  git status
+  149  git add .
+  150  git commit -m "commit 02 de LauraSoto"
+  151  git push origin feature
+  152  git checkout main
+  153  mv main.js resumenHardware.txt
+  154  mv index.html resumenSoftware.txt
+  155  ls
+  156  touch comandos.txt
+  157  history
